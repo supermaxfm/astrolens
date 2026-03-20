@@ -196,7 +196,7 @@ export default function SettingsMenu({ isOpen, onClose, settings, onSettingsChan
         </div>
       </Card>
 
-      <style jsx>{`
+      <style>{`
         .slider-cyan::-webkit-slider-thumb {
           appearance: none;
           height: 16px;
